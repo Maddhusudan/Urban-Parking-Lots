@@ -52,7 +52,7 @@ Repository Structure
 
 How to Run
 1. Clone the repository:
-   git clone https://github.com/your-username/parking-pricing
+   git clone https://github.com/Maddhusudan/Urban-Parking-Lots
    cd parking-pricing
 2. Install dependencies:
    pip install pandas numpy bokeh
